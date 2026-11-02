@@ -1,2 +1,3 @@
 # zq-submit-selftest
-zq submitter self-test (temporary)
+
+zq submitter self-test: branch, contents, pull request.
